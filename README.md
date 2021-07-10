@@ -1,3 +1,3 @@
 # NMA
-#Neuromatch Computational Neuroscience 
-##Tutorial
+# Neuromatch Academy Computational Neuroscience 
+### Tutorial
